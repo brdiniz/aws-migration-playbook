@@ -51,7 +51,7 @@ Issues and pull requests are welcome, especially real-world lessons that general
 
 ## Need help with your migration?
 
-If you want an experienced second pair of eyes on a migration plan, a cost case, or the cutover strategy, I do short advisory engagements for engineering leaders. Contact: <your-email-or-booking-link>
+If you want an experienced second pair of eyes on a migration plan, a cost case, or the cutover strategy, I do short advisory engagements for engineering leaders. Contact: brdiniz@icloud.com
 
 ## License
 
