@@ -1,0 +1,27 @@
+{
+  "company": "Acme SaaS (fictional)",
+  "horizon_months": 36,
+  "current_monthly": {
+    "PaaS compute (web and workers)": 11000,
+    "Managed Postgres and replicas": 6500,
+    "Add-ons (cache, search, logging, scheduler)": 4500,
+    "Bandwidth and overages": 800,
+    "Support plan": 1200
+  },
+  "target_monthly": {
+    "Compute (Fargate tasks, prod and non-prod)": 5200,
+    "Database (Multi-AZ, storage, backups)": 3600,
+    "Network (NAT, load balancers, egress)": 1700,
+    "Cache and queues": 800,
+    "Observability (logs, metrics, kept APM)": 1500,
+    "Security and audit tooling": 500,
+    "AWS support plan": 800
+  },
+  "ownership_monthly": 4000,
+  "one_time": {
+    "Engineering time (loaded cost)": 100000,
+    "Training and external advisory": 12000,
+    "Tooling and migration services": 8000
+  },
+  "double_run_months": 2
+}
